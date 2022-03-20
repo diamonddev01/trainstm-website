@@ -1,2 +1,2 @@
-# Trains TM Website
-The website for TrainsTM
+# Trains TM Website Code
+The website for TrainsTM, this is not raw html, it is running expressJS and EJS
